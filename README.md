@@ -1,6 +1,6 @@
 miMAP: A tool for ecological analysis and meta-analysis of micro-interference RNA profiles
 ==========================================================================================
-
+G. Casaburi, JG Caporaso
 
 miMAP is a tool for allowing microRNA meta analysis. Users can download public dataset (e.g., from the [Sequence Read Archive (SRA)](http://www.ncbi.nlm.nih.gov/sra) directly processable in the tool or provide their own data.
 Once the sequences are extracted from the .sra archive they are made compatibale to work in [QIIME](www.qiime.org), then the following steps occur:
